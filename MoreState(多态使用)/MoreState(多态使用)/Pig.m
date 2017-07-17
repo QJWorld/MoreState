@@ -10,4 +10,8 @@
 
 @implementation Pig
 
+-(void) sleep{
+    NSLog(@"猪=========睡觉方法");
+}
+
 @end
