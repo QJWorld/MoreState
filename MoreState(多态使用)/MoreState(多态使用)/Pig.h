@@ -10,4 +10,6 @@
 
 @interface Pig : Animal
 
+-(void) sleep;
+-(void)eat;
 @end
