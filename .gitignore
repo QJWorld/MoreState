@@ -16,6 +16,7 @@ DerivedData
 *.xcuserstate
 .idea/
 *.hmap
+Breakpoints_v2.xcbkptlist
 
 #CocoaPods
 Pods
