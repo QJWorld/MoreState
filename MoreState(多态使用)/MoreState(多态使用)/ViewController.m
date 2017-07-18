@@ -46,7 +46,7 @@
     [pig eat];   // 调用类 父类annimal 的吃 方法
     [pig laugh];  //  调用类 父类annimal 的笑 方法
     
-    
+    NSLog(@"继续2.0版本开发");
     
 }
 

@@ -13,9 +13,16 @@ xcuserdata
 profile
 *.moved-aside
 DerivedData
+<<<<<<< HEAD
 .idea/
 *.hmap
 *.xcuserstate
+=======
+*.xcuserstate
+.idea/
+*.hmap
+Breakpoints_v2.xcbkptlist
+>>>>>>> b88c5b4a31e5a8dfad6333183426bfd5f8215928
 
 #CocoaPods
 Pods

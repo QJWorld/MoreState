@@ -15,11 +15,11 @@
 
 -(void)laugh {
     NSLog(@"猫=========喵喵叫");
+
 }
 
 -(void)jump {
     NSLog(@"狗急跳墙========");
-
 }
 
 @end
