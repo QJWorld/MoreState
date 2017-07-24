@@ -15,7 +15,7 @@
 
 -(void)laugh {
     NSLog(@"猫=========喵喵叫");
-
+    NSLog(@"13u2jfo");
 }
 
 -(void)jump {
