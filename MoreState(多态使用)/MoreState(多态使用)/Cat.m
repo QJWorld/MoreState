@@ -10,12 +10,12 @@
 
 @implementation Cat
 -(void)eat {
+//    [super eat]; 初始化调用 一下 父类的方法
     NSLog(@"猫吃鱼");
 }
 
 -(void)laugh {
     NSLog(@"猫=========喵喵叫");
-
 }
 
 -(void)jump {
